@@ -57,7 +57,7 @@ The model performs well in predicting sales and shows that **advertising spend**
 
 Check out the video explanation on LinkedIn 👇  
 🔗 [LinkedIn Video Link Here](https://linkedin.com/)  
-🔗 [GitHub Repository](https://github.com/yourusername/CodeAlpha_SalesPrediction)
+🔗 [GitHub Repository](https://github.com/ravulapallisairam/CodeAlpha_SalesPrediction.git)
 
 ---
 
@@ -65,4 +65,4 @@ Check out the video explanation on LinkedIn 👇
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/CodeAlpha_SalesPrediction.git
+   https://github.com/ravulapallisairam/CodeAlpha_SalesPrediction.git
