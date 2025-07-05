@@ -65,4 +65,5 @@ Check out the video explanation on LinkedIn 👇
 
 1. Clone the repo:
    ```bash
-   https://github.com/ravulapallisairam/CodeAlpha_SalesPrediction.git
+   gh repo clone
+ravulapallisairam/CodeAlpha_SalesPrediction
